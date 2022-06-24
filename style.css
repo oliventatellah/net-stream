@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(36, 19, 35);
+}
+h2{
+    color: antiquewhite;
+    text-align: center;
+}
+.data-1{
+    color: green;
+    text-align: center;
+}
+.data-2{
+    color: red;
+    text-align: center;
+}
+.data-3{
+    color: orangered;
+    text-align: center;
+}
+
+.hr{
+    height: 0.5rem;
+    background-color: beige;
+    border-style: none;
+}
+button{
+    font-weight: bolder;
+    font-size: larger;
+    padding: 1rem;
+    margin-left: 120px;
+
+}
+.movies{
+justify-content: space-between;
+margin: 1rem;
+
+}
+.container{
+    margin-left: 2rem;
+}
+.inner-nav{
+    display: flex;
+    justify-content: space-between;
+    
+    margin: 3rem 0 2rem;
+}
+h1{
+    font-weight: bolder;
+    color: azure;
+    text-align: center;
+}
